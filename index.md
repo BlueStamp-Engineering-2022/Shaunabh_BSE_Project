@@ -14,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 
 # Second Milestone
-My second milestone was to build my pcb and build the actual robot so that I can see if it works normally. To build the PCB I just had to put the same connections from my breadboard to a perfboard, which is a copper board with pre-drilled holes on a grid to help make a prototype circuit board. My first prototype PCB did not work since I had multiple shorts so I had to make another prototype which worked later. I used [online instructions](https://www.instructables.com/Tiny-Wanderer-A-Table-Top-Robot/) to make the structure of the robot. Something I enjoyed about reaching this milestone was to create my first successful Circuit board and making the structure of the robot. Something I stuggled with was the dimensions since they were smaller than the appropriate size so I had to sand some parts to make my screws fit.
+My second milestone was to build my pcb and build the actual robot so that I can see if it works normally. To build the PCB I just had to put the same connections using soldering from my breadboard to a perfboard, which is a copper board with pre-drilled holes on a grid to help make a prototype circuit board. My first prototype PCB did not work since I had multiple shorts so I had to make another prototype which worked later. I used [online instructions](https://www.instructables.com/Tiny-Wanderer-A-Table-Top-Robot/) to make the structure of the robot. Something I enjoyed about reaching this milestone was to create my first successful Circuit board and making the structure of the robot. Something I stuggled with was the dimensions since they were smaller than the appropriate size so I had to sand some parts to make my screws fit.
 
 
 
