@@ -32,12 +32,10 @@ void loop()
   delay(10);
   if(rightSensorReading == 0 && leftSensorReading == 0) {
     //both sensor on table
-    //Serial.print("It is dark.");
     normalmove();
   }
   else if (rightSensorReading == 1 && leftSensorReading == 1) {
     //both sensor off table
-    //Serial.print("It is dark.");
     pos1 = 135;
     pos2 = 45;
     rightservo.write(pos1);
@@ -47,7 +45,6 @@ void loop()
   }
   else if(rightSensorReading == 1 && leftSensorReading == 0){
     //right sensor off table
-    //Serial.print("It is light.");
     pos2 = 45;
     pos1 = 45;
     rightservo.write(pos1);
@@ -58,7 +55,6 @@ void loop()
   }
   else if (rightSensorReading == 0 && leftSensorReading == 1){
     //left sensor off table
-    //Serial.print("It is light.");
     pos2 = 135;
     pos1 = 135;
     rightservo.write(pos1);
