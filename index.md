@@ -1,4 +1,5 @@
-﻿# TableTop Robot (205)
+(https://photos.google.com/share/AF1QipO0ofjm79WtdqiaPgvJbRWMM0RYuNqnRIxu0quzmkNXE34ZWxihrzg3TKo6hJyKCQ/photo/AF1QipN1eUUGFJkVSa8kwsrMisFfCbJeqcWjuiAmPDxa?key=X3ZOT0F1Y0xPVzJGVFREY0xPaG1aeHU5Z0RIQXNn)
+# TableTop Robot (205)
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -13,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone was to build my pcb and build the actual robot so that I can see if it works normally. To build the PCB I just had to put the same connections from my breadboard to a perfboard, which is a copper board with pre-drilled holes on a grid to help make a prototype circuit board. My first prototype PCB did not work since I had multiple shorts so I had to make another prototype which worked later. I used [online instructions](https://www.instructables.com/Tiny-Wanderer-A-Table-Top-Robot/) to make the structure of the robot. Something I enjoyed about reaching this milestone was to create my first successful Circuit board and making the structure of the robot. Something I stuggled with was the dimensions since they were smaller than the appropriate size so I had to sand some parts to make my screws fit.
 
 
 
