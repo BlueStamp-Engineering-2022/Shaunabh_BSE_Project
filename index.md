@@ -1,5 +1,5 @@
-# TableTop Robot (205)
-A autonomous wanderer robot that doesn't fall off a table. 
+# TableTop Robot
+An autonomous wanderer robot that doesn't fall off a table using infrared light detection as a method to detect a ledge. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
