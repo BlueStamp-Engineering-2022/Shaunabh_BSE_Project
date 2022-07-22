@@ -4,6 +4,9 @@ A autonomous wanderer robot that doesn't fall off a table.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Shaunabh B | San Mateo High School | Electrical Engineering | Incoming Sophomore
+
+
+
 ![My picture](https://res.cloudinary.com/dbuxx0uql/image/upload/v1658507278/imageedit_1_6629666651_mixafw.jpg)
 
 
